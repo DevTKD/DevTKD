@@ -3,7 +3,7 @@
 A bit about me:
 - 🔍 Background: Over 15 years of experience as a paralegal and contract manager, with a keen eye for detail and a knack for problem-solving.
 - 💻 Current Focus: Immersed in a full stack developer bootcamp, mastering both frontend and backend technologies.
-- 🔧 Passion for Backend: While I'm gaining full stack skills, my heart is set on backend development (ML, LLMs, & NLPs), where I can build robust and efficient systems.
+- 🔧 Passion for Backend: While I'm gaining full stack skills, my heart is set on backend development (ML, LLMs, & NLP), where I can build robust and efficient systems.
 - 🌟 Mission: To leverage my new tech skills to create impactful, life-changing solutions.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an introvert with a few extrovert moments 🤭 and my favorite color is yellow!
