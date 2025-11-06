@@ -1,15 +1,18 @@
 👋🏾 Hi, I’m Tanya (@DevTKD)
   
-A bit about me:
-- 🔍 Background: Over 15 years of experience as a paralegal and contract manager, known for a keen eye for detail, problem-solving skills, and now transitioning into the tech world.
-- 💻 Current Focus: Expanding my knowledge of Python and SQL in order to develop robust, scalable applications and enhance backend development skills.
-- 🧠 Tech Journey: Completed a full stack web development bootcamp where I gained hands-on experience with JavaScript, React, Node.js, and more. While I don’t use JavaScript every day, I’m familiar with the language and its ecosystem.
-- 🌱 Always Learning: I am always open to learning new things. I plan to explore languages like Go, Java and even COBOL for that old-school expertise!
-- 🌟 Mission: To use my tech skills to create impactful, life-changing solutions and APIs.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact(s): I'm an introvert with a few extrovert moments 🤭, my favorite color is yellow and I love watching Korean drama series on Netflix 🤭!
+I’m a paralegal and contract manager with over 15 years of analytical problem-solving experience, now fully transitioning into software development. I’m currently diving deep into Java, and it’s quickly become the language that truly speaks to me — structured, powerful, and perfect for building beautiful, enterprise-grade systems.
 
-I may be new to software development, but my confidence in my coding skills grows with every line of code I write. Join me on this exciting journey as I transition from the legal world to the tech landscape, eager to make a mark and bring about meaningful change.
+🐍 My journey started with Python, and along the way I’ve also worked with JavaScript, React, Node.js, and even Swift. Each language taught me something valuable, but Java is where everything finally clicked, and it’s now the foundation of my long-term engineering path.
+
+💛 I’m focused on strengthening my backend engineering skills — building scalable systems, deepening my SQL knowledge, and practicing enterprise patterns and architecture. My mission is to create clean, reliable, human-centered software that solves real problems and delivers meaningful impact.
+
+🌱 I’m always learning, exploring different languages and technologies, but Java remains my core focus as I grow into enterprise development.
+
+😄 My pronouns are She/Her.
+
+⚡ Fun facts: I’m an introvert with occasional extrovert bursts 🤭, my favorite color is yellow, and I’m a devoted K-drama watcher on Netflix 🤭.
+
+Thanks for stopping by — join me as I build, break, learn, and grow on this journey from the legal field into the world of software engineering!
 
 📧 Feel free to connect with me via email at TheDevTKD@gmail.com.
 <!---
