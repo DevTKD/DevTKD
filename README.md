@@ -1,6 +1,6 @@
 👋🏾 Hi, I’m Tanya (@DevTKD)
   
-I’m a paralegal and contract manager with over 15 years of analytical problem-solving experience, now fully transitioning into software development. I’m currently diving deep into Java, and it’s quickly become the language that truly speaks to me — structured, powerful, and perfect for building beautiful, enterprise-grade systems.
+I’m a paralegal and contract manager with over 15 years of analytical problem-solving experience, now fully transitioning into software development & QA Engineering. I’m currently diving deep into Java, and it’s quickly become the language that truly speaks to me — structured, powerful, and perfect for building beautiful, enterprise-grade systems.
 
 🐍 My journey started with Python, and along the way I’ve also worked with JavaScript, React, Node.js, and even Swift. Each language taught me something valuable, but Java is where everything finally clicked, and it’s now the foundation of my long-term engineering path.
 
