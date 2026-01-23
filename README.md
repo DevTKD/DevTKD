@@ -4,7 +4,7 @@ I’m a paralegal and contract manager with over 15 years of analytical problem-
 
 🐍 My journey started with Python, and along the way I’ve also worked with JavaScript, React, Node.js, and even Swift. Each language taught me something valuable, but Java is where everything finally clicked, and it’s now the foundation of my long-term engineering path.
 
-💛 I’m focused on strengthening my backend engineering skills — building scalable systems, deepening my SQL knowledge, and practicing enterprise patterns and architecture. My mission is to create clean, reliable, human-centered software that solves real problems and delivers meaningful impact.
+💛 I’m working toward becoming an Automated QA Engineer, focusing on Java-based test automation, backend and API testing, SQL validation, and enterprise-scale test frameworks. My mission is to improve system reliability through automation, thoughtful test architecture, and human-centered quality engineering.
 
 🌱 I’m always learning, exploring different languages and technologies, but Java remains my core focus as I grow into enterprise development.
 
