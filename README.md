@@ -1,20 +1,22 @@
 👋🏾 Hi, I’m Tanya (@DevTKD)
-  
-I’m a paralegal and contract manager with over 15 years of analytical problem-solving experience, now fully transitioning into software development & QA Engineering. I’m currently diving deep into Java, and it’s quickly become the language that truly speaks to me — structured, powerful, and perfect for building beautiful, enterprise-grade systems.
 
-🐍 My journey started with Python, and along the way I’ve also worked with JavaScript, React, Node.js, and even Swift. Each language taught me something valuable, but Java is where everything finally clicked, and it’s now the foundation of my long-term engineering path.
+I’m a paralegal and contract manager with 15+ years of experience in analytical problem-solving, risk assessment, and working in highly regulated environments—now intentionally transitioning into technology-focused roles spanning software development, quality engineering, and data-aware systems.
 
-💛 I’m working toward becoming an Automated QA Engineer, focusing on Java-based test automation, backend and API testing, SQL validation, and enterprise-scale test frameworks. My mission is to improve system reliability through automation, thoughtful test architecture, and human-centered quality engineering.
+🐍 I started my technical journey with Python, building small backend-oriented projects that strengthened my understanding of programming logic, data handling, and real-world problem modeling. I’m currently learning Java, which has become a key focus as I build a stronger foundation in structured, scalable application development.
 
-🌱 I’m always learning, exploring different languages and technologies, but Java remains my core focus as I grow into enterprise development.
+🧠 I’m particularly interested in how data is structured, analyzed, and responsibly used, and how emerging AI-enabled systems can support better decision-making when paired with strong governance and thoughtful design. My background in privacy, compliance, and contractual risk informs how I approach technology—especially systems that handle sensitive data.
 
-😄 My pronouns are She/Her.
+💛 I’m working toward roles that blend backend development, test automation, and system reliability, with growing exposure to Java-based tooling, backend and API testing concepts, SQL validation, and workflow automation.
 
-⚡ Fun facts: I’m an introvert with occasional extrovert bursts 🤭, my favorite color is yellow, and I’m a devoted K-drama watcher on Netflix 🤭.
+🌱 Always learning, always building—using personal projects to experiment, break things safely, and strengthen my technical foundations while bringing a human-centered, risk-aware mindset into engineering work.
 
-Thanks for stopping by — join me as I build, break, learn, and grow on this journey from the legal field into the world of software engineering!
+😄 Pronouns: She/Her
 
-📧 Feel free to connect with me via email at TheDevTKD@gmail.com.
+⚡ Fun facts: Introvert with occasional extrovert bursts 🤭, favorite color is yellow, and a devoted K-drama watcher on Netflix 📺
+
+Thanks for stopping by—feel free to explore my repositories as I continue this journey from legal operations into the world of software engineering and data-aware systems.
+
+📧 Connect with me: TheDevTKD@gmail.com
 <!---
 DevTKD/DevTKD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
