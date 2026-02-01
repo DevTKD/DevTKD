@@ -1,23 +1,37 @@
 👋🏾 Hi, I’m Tanya (@DevTKD)
 
-I’m a paralegal and contract manager with 15+ years of experience in analytical problem-solving, risk assessment, and working in highly regulated environments—now intentionally transitioning into technology-focused roles spanning software development, quality engineering, and data-aware systems.
+I’m a paralegal and contract manager with 18+ years of experience in analytical problem-solving, risk assessment, and highly regulated environments.
 
-🐍 I started my technical journey with Python, building small backend-oriented projects that strengthened my understanding of programming logic, data handling, and real-world problem modeling. I’m currently learning Java, which has become a key focus as I build a stronger foundation in structured, scalable application development.
+I’m intentionally transitioning into Software Development Engineer in Test (SDET) and quality-focused engineering roles, where correctness, reliability, and confidence in systems matter.
 
-🧠 I’m particularly interested in how data is structured, analyzed, and responsibly used, and how emerging AI-enabled systems can support better decision-making when paired with strong governance and thoughtful design. My background in privacy, compliance, and contractual risk informs how I approach technology—especially systems that handle sensitive data.
+My focus is on engineering how software is tested — not just writing test cases — with strong interests in test strategy, automation, and system reliability aimed at preventing failures before they reach production.
 
-💛 I’m working toward roles that blend backend development, test automation, and system reliability, with growing exposure to Java-based tooling, backend and API testing concepts, SQL validation, and workflow automation.
+☕🐍 Technical Focus
+  * Java — primary focus for automated testing and structured test frameworks (JUnit)
+  * Python — test tooling, logic modeling, data validation, and experimentation
+  * SQL — validating data correctness and system behavior
+  * Backend and API testing concepts
+  * Growing exposure to CI/CD and workflow automation
 
-🌱 Always learning, always building—using personal projects to experiment, break things safely, and strengthen my technical foundations while bringing a human-centered, risk-aware mindset into engineering work.
+My projects are designed to explore edge cases, expected vs. actual behavior, and system-level confidence.
 
-😄 Pronouns: She/Her
+🧠 Perspective & Interests
 
-⚡ Fun facts: Introvert with occasional extrovert bursts 🤭, favorite color is yellow, and a devoted K-drama watcher on Netflix 📺
+I’m especially interested in:
+  * Data structure, validation, and responsible use
+  * Quality and testing in data-driven and AI-enabled systems
+  * Automation paired with governance and trust
 
-Thanks for stopping by—feel free to explore my repositories as I continue this journey from legal operations into the world of software engineering and data-aware systems.
+My legal background brings a risk-aware, human-centered lens to engineering and quality work.
+
+🌱 Current Goal
+
+To grow into an SDET and automation QA subject-matter expert through hands-on projects that strengthen testing foundations, automation design, and multi-language fluency.
+
+😄 About Me
+  * Pronouns: She/Her
+  * Introvert with occasional extrovert bursts 🤭
+  * Favorite color: yellow 💛
+  * Devoted K-drama watcher on Netflix 📺
 
 📧 Connect with me: TheDevTKD@gmail.com
-<!---
-DevTKD/DevTKD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
