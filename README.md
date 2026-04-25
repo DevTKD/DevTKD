@@ -1,42 +1,60 @@
-👋🏾 Hi, I’m Tanya (@DevTKD)
+👋🏾 Hi, I'm Tanya (@DevTKD)
 
-I’m a longtime paralegal and contract manager with 18+ years in analytical problem-solving, risk awareness, and highly regulated environments.
+Sr. Paralegal · Contract Manager · Developer in Progress
 
-But the deeper truth?
+18+ years in contract management, risk analysis, and highly regulated
+environments. Now channeling that practitioner expertise into building
+software that actually solves problems I know are real.
 
-My heart lives in Apple development and the journey toward becoming a successful indie developer. I care about building software that is calm, precise, beautifully designed, and genuinely useful—especially within the Apple ecosystem.
+---
 
-🍏 What Drives Me
-* A deep love for iOS and macOS development
-* The dream of creating meaningful, profitable indie apps
-* Thoughtful software design over noisy, bloated tech
-* Systems that are reliable, elegant, and human-centered
+🔨 What I'm Building
 
-I’m not here just to code.
-I’m here to build things that matter—and to create a future defined by creativity, ownership, and freedom.
+Something in the legal tech space — API-first, privacy-focused, and
+built from the inside out by someone who lives the problem daily.
 
-🐍 Technical Interests
-* Swift & SwiftUI — Apple-native app experiences
-* Python — automation, validation, and intelligent tooling
-* Quality, reliability, and structured system thinking
-* Backend logic and data-driven workflows
+More details coming when the time is right.
 
-My projects are steps toward a single outcome:
+---
 
-A sustainable life as an indie Apple developer.
+🐍 Technical Stack
+
+  · Python            — my language of choice
+  · FastAPI           — building the API layer
+  · Claude API        — AI-powered document intelligence
+  · PyMuPDF / docx    — document parsing
+  · PostgreSQL        — data storage
+  · PyCharm           — home base (JetBrains all day)
+  · GitHub            — versioning everything from day one
+
+---
+
+🎯 The Mission
+
+Time freedom. Financial freedom. A product built by a practitioner,
+for practitioners — that actually solves the problem instead of
+guessing at it.
+
+Solo. Low overhead. Built with intention.
+
+---
 
 🌱 Right Now
-I’m building, learning, and sharpening my skills—one real project at a time—while moving steadily toward launching apps that can stand on their own.
 
-No shortcuts.
-No pretending.
-Just progress.
+  · Deepening Python and FastAPI skills with purpose
+  · Building and validating a real product concept
+  · Learning LLM integration and document parsing
+  · Moving steadily — one real commit at a time
+
+No shortcuts. No pretending. Just progress.
+
+---
 
 😄 About Me
 
-* Pronouns: She/Her
-* Quiet thinker. Big vision.
-* Favorite color: yellow 💛
-* Devoted K-drama watcher 📺
+  · Pronouns: She/Her
+  · Quiet thinker. Big vision.
+  · Favorite color: yellow 💛
+  · Devoted K-drama watcher 📺
 
 📧 TheDevTKD@gmail.com
