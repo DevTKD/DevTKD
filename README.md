@@ -1,6 +1,6 @@
 👋🏾 Hi, I'm Tanya (@DevTKD)
 
-Sr. Paralegal · Contract Manager · Developer in Progress
+Sr. Paralegal · Contract Manager · Early-Career Backend Developer (Python)
 
 18+ years in contract management, risk analysis, and highly regulated
 environments. Now channeling that practitioner expertise into building
