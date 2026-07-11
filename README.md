@@ -10,10 +10,9 @@ software that actually solves problems I know are real.
 
 🔨 What I'm Building
 
-Something in the legal tech space — API-first, privacy-focused, and
-built from the inside out by someone who lives the problem daily.
+Interactive software that transforms how people learn.
 
-More details coming when the time is right.
+I'm creating immersive learning experiences inspired by the real challenges professionals solve every day.
 
 ---
 
